@@ -14,7 +14,7 @@ Environment:
 
 ## Results
 
-![Results](https://cdn.skuzzi.ro/5Daa8g7S6IYuQGoChbE8OdEln6e4x43M.png)
+![Results](https://cdn.skuzzi.ro/WWhVWtt4o0uLpAM3pTntz5bV9of39q5A.png)
 
 ## Memory Results
 
