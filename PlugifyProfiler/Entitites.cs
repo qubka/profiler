@@ -75,7 +75,7 @@ public unsafe partial class PlugifyProfiler
     {
         profilerService.StartRecording("Get Game Rules");
 
-        var gameRules = FindEntityByClassname(-1, "cs_gamerules");
+        var gameRules = s2sdk.s2sdk.GetGameRules();
 
         profilerService.StopRecording("Get Game Rules");
     }
